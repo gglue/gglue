@@ -71,9 +71,3 @@
     <!-- Commit Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=gglue&count_private=true&show_icons=true&theme=blue&include_all_commits=true" alt="Stats" width="48%" height="150px">
 </div>
-
-<!--Misc-->
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=gglue&label=Profile%20views&color=yellow&style=for-the-badge" alt="Page View"/>
-    <a href="https://www.livictor.com" rel="noreferrer noopener" target="_blank"><img alt="https://www.livictor.com" src="https://img.shields.io/badge/livictor.com-online-GRE8FF?style=for-the-badge"/></a>
-</div>
