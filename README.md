@@ -18,7 +18,7 @@
 
 ---
 
-<!-- Tech tack -->
+<!-- Tech stack -->
 <!--Languages-->
 <h3 align="center"><b>Languages</b></h3>
 <div align="center">
@@ -67,9 +67,9 @@
 
 <!--Read Me Lang Stats-->
 <div align="center">
-    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gglue&layout=compact&theme=midnight-purple" width="40%" height="150px">
+    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gglue&layout=compact&theme=blue" width="40%" height="150px">
     <!-- Commit Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=gglue&count_private=true&show_icons=true&theme=midnight-purple&include_all_commits=true" alt="Stats" width="48%" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api?username=gglue&count_private=true&show_icons=true&theme=blue&include_all_commits=true" alt="Stats" width="48%" height="150px">
 </div>
 
 <!--Misc-->
