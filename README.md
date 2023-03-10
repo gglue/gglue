@@ -2,7 +2,7 @@
 
 <!-- Intro -->
  - 🎓 I am a computer science student studying at Western University.
- - 🔭 I’m currently working on my full stack restaurant CRUD app using Spring!
+ - 🔭 I’m currently studying on how to use Godot!
  - 📫 You can reach me via LinkedIn or Email.
 
 <!-- Contacts -->
